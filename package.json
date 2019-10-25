@@ -1,0 +1,14 @@
+{
+  "name": "graphsort",
+  "version": "1.0.0",
+  "description": "sorting algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "travis stratton",
+  "license": "ISC",
+  "dependencies": {
+    "collections.js": "^0.0.7"
+  }
+}
